@@ -1,0 +1,10 @@
+@font-face {font-family:'icon'; src:url('Logo&Icons.woff');}
+
+/* BASIC BLOCKS */
+
+html	{
+		background-color:white; color:blue;
+		font-family:arial,sans-serif;
+		}
+body	{
+		}
