@@ -3,8 +3,12 @@
 /* BASIC BLOCKS */
 
 html	{
-		background-color:white; color:blue;
+		background-color:black; color:orange;
 		font-family:arial,sans-serif;
 		}
 body	{
+		text-align:center;
+		}
+hr		{
+		color:orange;
 		}
